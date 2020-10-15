@@ -1,5 +1,5 @@
 <h1>
- 🌀 How to Hacktoberfest2020 ⭐️
+ 🌀 How to begin with Hacktoberfest2020 ⭐️
 </h1>
 <!-- by Jugal Bhatt. Demo for Gaurav Sharma -->
 Get ready for Hacktoberfest , check out all our repos and make your pull request here 
